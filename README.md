@@ -1,5 +1,5 @@
 # CS-687-CapstoneProject
-City University Fall 2020 Capstone Project
+City University of Seattle Fall 2020 Capstone Project
 
 
 ## Embedding Bot into Microsoft Teams ##
