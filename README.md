@@ -8,8 +8,6 @@ City University Fall 2020 Capstone Project
     - Microsoft Teams will open dhana-bot and it will be listed as one of your chat
 
 ## API for connecting NLP Module ##
-    - https://dhanaapi.azurewebsites.net/api/postapi
-
-    It is a POST API, and data needs to sent to a server inside the body
-    The syntax is:
-    { "text": "The power consumption of the system may not exceed TBD kW."}
+    - https://dhanaapi.azurewebsites.net/api/postapi - It is a POST API
+    - Body syntax is:
+        { "text": "The power consumption of the system may not exceed TBD kW."}
